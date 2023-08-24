@@ -24,6 +24,10 @@ This repository provides a comprehensive guide and Arduino sketches for interfac
 - Jumper wires
 - Breadboard
 
+## Connection Diagram
+![Pinout Diagram](https://github.com/techyalok/Anode-7-Segment-Display/assets/73772700/4ef58ed1-6290-4980-9ad4-ef598fffad5b)
+
+
 # Getting Started:
 1. Clone or download this repository to your local machine.
 2. Navigate to the `/src` directory to find the Arduino sketches.
